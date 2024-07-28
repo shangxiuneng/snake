@@ -1,0 +1,13 @@
+.container {
+    height: 640px;
+    width: 640px;
+    /*相对定位*/
+    position: relative;
+    margin: 60px auto 0;
+    background-color: #225675;
+    border: 20px solid #7dd9ff;
+}
+
+.startBtn {
+
+}
